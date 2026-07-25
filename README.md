@@ -1,11 +1,9 @@
 <div id="header" align="center">
  <div id="counter" align="center">
  <h1>
-   <img src= "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hey there,
-  You are welcome,
-  Feel like you're at home.
+  Bogdan Ikonnikov · Backend Engineer (Java)
 </h1>
+<p><em>Clean code, SOLID, and a passion for distributed systems</em></p>
 
  ### :hammer_and_wrench: Technologies and Tools
  
